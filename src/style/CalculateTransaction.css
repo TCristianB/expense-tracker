@@ -1,0 +1,63 @@
+.results__header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.results__header p {
+    
+    color: white;
+    padding: 10px;
+    width: 33%;
+    margin-top: 0;
+}
+
+.header__income {
+    background-color: #00940c;
+}
+
+.header__expense {
+    background-color: #b90303;
+}
+
+.header__total {
+    background-color: #002d80;
+}
+
+.article__result {
+    height: fit-content;
+}
+
+.results__title {
+    margin: 5px;
+}
+
+.ticket {
+    display: flex;
+    width: 95%;
+    margin-bottom: 10px;
+    
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5px;
+    color: gray;
+}
+
+.expense {
+    background-color: rgb(255, 185, 185)
+}
+
+.income {
+    background-color: rgb(144, 255, 144);
+}
+
+.ticket__name {
+    margin-left: 10px;
+}
+
+.ticket__button{
+     height: 30px;
+     border: 0;
+     background-color: rgb(255, 86, 86);
+     color: white;
+     margin-right: 10px;
+}

@@ -1,0 +1,23 @@
+.transaction__section--title {
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 7px;
+    width: 85%;
+    border-radius: 2%;
+    outline: none;
+    border: 1px solid rgb(184, 184, 184);
+    
+}
+
+.transaction__select {
+    padding: 5px;
+    outline: none;
+    border: 1px solid rgb(184, 184, 184);
+}
+
+.submit__form {
+    padding: 5px 10px;
+    margin-top: 20px;
+}
